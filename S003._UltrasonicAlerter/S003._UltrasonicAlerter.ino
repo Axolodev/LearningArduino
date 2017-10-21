@@ -1,3 +1,5 @@
+// Used this http://howtomechatronics.com/tutorials/arduino/ultrasonic-sensor-hc-sr04/
+
 const byte triggerPin = 3;
 const byte echoPin = 2;
 const byte ledOutputPin = 5;
